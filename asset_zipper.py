@@ -17,7 +17,7 @@ class AssetZipper(QWidget):
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle('Asset Zipper')
+        self.setWindowTitle('Asset Zipper by @mujib_banget')
         self.setGeometry(100, 100, 600, 400)
 
         # Main layout

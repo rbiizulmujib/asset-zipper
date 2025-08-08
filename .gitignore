@@ -1,2 +1,5 @@
 test_input
 .DS_Store
+.gitignore
+build
+dist
